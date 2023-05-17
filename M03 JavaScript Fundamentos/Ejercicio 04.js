@@ -33,7 +33,7 @@ function redondearNumero(num) {
 
 function redondearHaciaArriba(num) {
    // Redondea "num" hacia arriba y retórnalo.
-   // Tu código:
+   // Tunpm código:
    num = Math.ceil(num)
    return num
 }
